@@ -1,0 +1,85 @@
+{
+  "VariantSets": [
+    {
+      "Id": "material",
+      "DisplayName": "Material",
+      "Variants": [
+        {
+          "Id" : "variant1",
+          "DisplayName": "Variant 1"
+        },
+        {
+          "Id" : "variant2",
+          "DisplayName": "Variant 2"
+        },
+        {
+          "Id" : "variant3",
+          "DisplayName": "Variant 3"
+        }
+      ]
+    },
+    {
+      "Id": "standColor",
+      "DisplayName": "Stand Color",
+      "Variants": [
+        {
+          "Id" : "black",
+          "DisplayName": "Dark"
+        },
+        {
+          "Id" : "rainbow",
+          "DisplayName": "Rainbow"
+        },
+        {
+          "Id" : "orange",
+          "DisplayName": "Orange"
+        }
+      ]
+    },
+    {
+      "Id": "strings",
+      "DisplayName": "Strings",
+      "Variants": [
+      {
+        "Id" : "metalGold",
+        "DisplayName": "Metal Gold"
+      },
+      {
+        "Id" : "metalRust",
+        "DisplayName": "Metal Rust"
+      },
+      {
+        "Id" : "metalBurnishedSteel",
+        "DisplayName": "Metal Burnished Steel"
+      },
+        {
+          "Id" : "metalAluminum",
+          "DisplayName": "Metal Aluminum"
+        }
+    ]
+    },
+    {
+      "Id": "environment",
+      "DisplayName": "Environment",
+      "Variants": [
+        {
+          "Id" : "morning",
+          "DisplayName": "Morning"
+        },
+        {
+          "Id" : "sunny",
+          "DisplayName": "Sunny"
+        },
+        {
+          "Id" : "evening",
+          "DisplayName": "Evening"
+        },
+        {
+          "Id" : "night",
+          "DisplayName": "Night light"
+        }
+      ]
+    }
+    
+  ]
+}
